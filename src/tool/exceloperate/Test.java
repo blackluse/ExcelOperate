@@ -6,6 +6,6 @@ package tool.exceloperate;
 public class Test {
     public static void main(String[] args) {
         Object o = null;
-        System.out.println((String)o);
+        System.out.println((String)o);//
     }
 }
